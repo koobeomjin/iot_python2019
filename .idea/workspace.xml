@@ -2,9 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51a250f-f4b0-4e5b-9f18-6da99b049c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/159_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/159_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/164_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/1_Function/166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/2_Print/170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/171_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/171_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/171_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/174.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/174_readline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/174_readlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/175_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/176_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/177_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/177_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/1_Class/t_class_operator_redefine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/graphic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/graphic/render.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/play/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/play/echo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/sound/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/sound/echo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game/sound/wave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/Game_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/auto_pkg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/graphic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/graphic/render.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/play/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/play/echo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/sound/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/sound/echo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/3_Package/new_pkg/Game/sound/wave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/4_Exception/222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/4_Exception/222_type1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/4_Exception/222_type2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/4_Exception/222_type3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/4_Exception/228.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/232_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/233_divmod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/234_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/234_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/235_filter_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/239_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/244_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/249_pickle_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/249_pickle_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/250_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/253_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_single_process_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/261_t_thread_daemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/info_data/my_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/286_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/287.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/288.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/289.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/문제해결팁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/cafeQ/greet_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/cafeQ/sandwich.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.5/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.8/idol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.8/visitor_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/7.8/연습생.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/codingdojang/3_5_multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/codingdojang/geshipanpaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/question/q1,2,3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_jump_to_python/exer/question/q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_print.py.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_jump_to_python/1_intro/first_pycharm_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jump_to_python/1_intro/first_pycharm_program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +131,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py">
+        <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="104">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -28,6 +144,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Setup Script" />
         <option value="Python Script" />
       </list>
     </option>
@@ -38,16 +155,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01_jump_to_python/2_string_formmating/3_68.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/1_intro/33_hello_world.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/1_intro/first_pycharm_program.py" />
-        <option value="$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/249_pickle_write.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/249_pickle_read.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/my_info.txt" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/250_os.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/252_glob.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/253_time.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q1.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q2.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q4.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q5.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q8.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/pyton_myargv.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q9.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q10.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q11.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q12.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/7.10/q13.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q1.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_thread.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/info_data/259_thread_test.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_2.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_single_process_test.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q3.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/문제해결팁.txt" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/286_1.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/287.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/288.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/289.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/info_data/259_Multi_thread_test_3.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_1.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/261_t_thread_deamon.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/261_t_thread_daemon.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q1.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q2.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q3.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q7.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q6.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/abc.txt" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q8.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q9.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q10.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q11.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q12.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q13.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q14.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q16.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q15.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/235_filter_lambda.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q4.py" />
+        <option value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1304" />
-    <option name="y" value="-13" />
+    <option name="x" value="-20" />
+    <option name="y" value="-8" />
     <option name="width" value="1260" />
     <option name="height" value="954" />
   </component>
@@ -59,69 +223,59 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_print.py" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_print.py" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_print.py" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="1_intro" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_print.py" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="2_string_formmating" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="3_control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="3_control" type="462c0819:PsiDirectoryNode" />
-              <item name="1_if" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="3_control" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="01_jump_to_python" type="462c0819:PsiDirectoryNode" />
-              <item name="3_control" type="462c0819:PsiDirectoryNode" />
-              <item name="sub" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
+              <item name="python_liscence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\5_native_function" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\5_native_function\info_data" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\exer\Restaurant" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\4_Exception" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\3_Package\new_pkg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\5_native_function" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\5_native_function\info_data" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\exer" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\3_Package" />
+      <recent name="C:\Python_Workspace\01_jump_to_python\5_APP\3_Package\Game" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,20 +289,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_134">
-    <configuration name="33_hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
+  <component name="RunManager" selected="Python.235_filter_lambda">
+    <configuration name="235_filter_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/1_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/1_intro/33_hello_world.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/235_filter_lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +311,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_134" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
+    <configuration name="q13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/3_control/1_if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +332,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_68" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
+    <configuration name="q15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/2_string_formmating" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/2_string_formmating/3_68.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,19 +353,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first_pycharm_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Workspace" />
+    <configuration name="q16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/1_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/1_intro/first_pycharm_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,12 +374,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="q4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.q13" />
+      <item itemvalue="Python.q15" />
+      <item itemvalue="Python.q16" />
+      <item itemvalue="Python.q4" />
+      <item itemvalue="Python.235_filter_lambda" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_134" />
-        <item itemvalue="Python.first_pycharm_program" />
-        <item itemvalue="Python.33_hello_world" />
-        <item itemvalue="Python.3_68" />
+        <item itemvalue="Python.235_filter_lambda" />
+        <item itemvalue="Python.q4" />
+        <item itemvalue="Python.q15" />
+        <item itemvalue="Python.q16" />
+        <item itemvalue="Python.q13" />
       </list>
     </recent_temporary>
   </component>
@@ -254,78 +437,518 @@
       <option name="project" value="LOCAL" />
       <updated>1562203472606</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="command line 수업 코드 이관">
+      <created>1562205809648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562205809648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1836248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29768467" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.327252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3340935" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32886723" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295325" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32839224" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295325" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295325" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1844197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32855567" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29760548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37058154" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32839224" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295325" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="최초 반영" />
     <MESSAGE value="command line 수업 코드 이관" />
     <option name="LAST_COMMIT_MESSAGE" value="command line 수업 코드 이관" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_jump_to_python/4_input_output/3_File_IO/177_2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_jump_to_python/5_APP/class/0_test.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_jump_to_python/5_APP/class/188_4_cal_class_8.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_jump_to_python/5_APP/Module/mod3_controller.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01_jump_to_python/exer/7.8/idol.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>__name__</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.readlines()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>trainee</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>trainee[]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.readline()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f.read()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>info.split()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/2_string_formmating/3_68.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/286_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="234">
+          <caret line="9" column="12" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/1_intro/33_hello_world.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/287.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state relative-caret-position="286">
+          <caret line="11" column="11" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/1_intro/first_pycharm_program.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/288.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="364">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/3_control/5_144.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/289.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/6_Solve_the_problem/문제해결팁.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/261_t_thread_daemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_single_process_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/259_Multi_thread_test_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/1_Class/188_4_cal_class.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/3_control/challenge/q3.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/1_Class/188_4_cal_class_3.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/3_control/challenge/q2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/1_intro/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/1_Class/188_4_cal_class_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="130">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_jump_to_python/3_control/1_if/3_134.py">
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/1_Class/188_4_cal_class_7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="-35">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#63#104#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/Restaurant/q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/abc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod1_controller.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod3_controller.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod2_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/mod4_controller.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/2_Module/my_mod/mod5_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.8/visitor_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q9.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.10/q12.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/7.8/idol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/5_APP/5_native_function/235_filter_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_jump_to_python/exer/python_liscence/q5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
