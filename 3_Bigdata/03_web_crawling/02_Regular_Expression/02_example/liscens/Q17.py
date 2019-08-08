@@ -1,0 +1,10 @@
+import re
+p = re.compile('a[.]{3,}b')
+m = p.match('acccb')
+print(m)
+m = p.match('a...b')
+print(m)
+m = p.match('aaab')
+print(m)
+m = p.match('a.cccb')
+print(m)
