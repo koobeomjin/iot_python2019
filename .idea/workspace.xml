@@ -1,112 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/3_Bigdata/2_OpenAPI/weather/dong.py" line="13" mnemonic="8" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="b51a250f-f4b0-4e5b-9f18-6da99b049c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/complesim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/first_sim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/my_sim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/01_Simulator/second_sim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/QQQQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Application/bluetoothClient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/01_Beautiful_Soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/gisang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/jgs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/naver_movie_rank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/naver_movie_rank2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/02_regident_registration_number_python_re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/03_293.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/04_294_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/05_294_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/06_294_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/07_294_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/08_295.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/09_296.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/11_297.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/12_299_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/13_299_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/14_300_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/14_300_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/16_302.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/17_302_DOTALL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/19_305_MULTILINE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/20_307_back_slash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/21_307_back_slash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/22_309.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/py-Q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/py-Q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/03_313.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/04_313.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/09_318.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/10_319.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/9_multi_level_child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/1/note2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/1/01_blog_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/1/01_news_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/1/02_NEWS_Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/googelmap/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/naver/domain_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/naver/naverblog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/naver/news2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/student/jsonjus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/student/students_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/student/students_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/student/students_info2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/edcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/national_code_selected.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/travel_enterance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/traveler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/visitors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/weather/dong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/weather/donggu_weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/2_OpenAPI/weather/동구_신암동_초단기예보조회_20190729_0930.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/pythonNET/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Bigdata/pythonNET/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_Pi/Client_Socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Raspberry_Pi/Server_socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/1_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/2_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/3_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/4_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/5_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/02_Distributed_Repository/6_Distributed_Repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/206_basic_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/207_basic_graph2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/208_multi_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/214_subplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/215_subplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/216_add_text_in_the_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/280_matplotlib_basic_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/282_matplotlib_basic_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/284_matplotlib_basic_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/285_matplotlib_basic_scatter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/285_matplotlib_basic_scatter_predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/285_numpy_polyfit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/288_matplotlib_basic_boxplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/288_matplotlib_basic_boxplot_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step4_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step4_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seavorn_plots_step4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/297_bayes_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/tourist_statistics_service_128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/3_vocalization/Vocalization_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/03_Visualization/3_vocalization/Vocalization_naver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/04_Integration/1_REST_Server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Application/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/1csv_simple_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/1pandas_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/2csv_reader_parsing_and_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/3csv_reader_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/3pandas_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/4csv_reader_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/4pandas_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/5csv_reader_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/5pandas_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/6csv_reader_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/6pandas_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/7csv_reader_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/sales_february_2014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/sales_january_2014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/sales_march_2014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/supplier_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/supplier_data_corrupted.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/supplier_data_no_header_row.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/1.CSV/supplier_data_unnecessary_header_footer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/10excel_column_by_name_all_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/10pandas_column_by_name_all_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/11excel_value_meets_condition_set_of_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/11pandas_value_meets_condition_set_of_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/12excel_introspect_all_workbooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/13excel_concat_data_from_multiple_workbooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/13pandas_concat_data_from_multiple_workbooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/14excel_sum_average_multiple_workbooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/1excel_introspect_workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/2excel_introspect_workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/3excel_parsing_and_write_keep_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/3pandas_parsing_and_write_keep_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/4excel_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/4pandas_value_meets_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/5excel_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/5pandas_value_in_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/6excel_value_meets_condition_set_of_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/6pandas_value_matches_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/7excel_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/7pandas_column_by_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/8excel_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/8pandas_column_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/9excel_value_meets_condition_all_worksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/9pandas_value_meets_condition_all_wroksheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/sales_2013.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/sales_2014.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/2.Excel/sales_2015.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/0923CRUD완결.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/10_student_info_normalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/1db_sqlite_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/2db_insert_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/2db_non_volatile_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/2db_select_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/3db_update_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/4db_delete_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/4db_mysql_load_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/4db_select_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/5db_mysql_write_to_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/6_Distribututed_Repository_v6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/6db_mysql_update_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/7db_mysql_load_from_csv_with_pk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/8_db_mysql_new_load_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/9_student_info_standadizatuion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/Repository_Simulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/student_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/1search_for_items_write_found.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/2calculate_statistic_by_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/3_statistics_basic_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/3parse_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/4_0_Database_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/4_db_mysql_new_load_from_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/9_24_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/Basic_Student_Info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/P_db_Student_INFO_ver1.01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/4.APP/suppliers_2012.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/Exam/exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/Exam/구범진_빅데이터저장관리_프로그램.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/Exam/구범진_빅데이터저장관리_프로그램v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality_4_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/winequality-both.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/150_xor-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/152_xor-train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/155_iris-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/155_iris-train_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/157_iris-train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/161_mnist-download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/163_mnist-tocsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/165_mnist-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/171_lang-train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/173_lang-plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/184_bmi-create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/185_bmi-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/192_mushroom-download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/193_mushroom-train(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/196_mushroom-train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/199_cross-iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/1_clusters_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/200_cross-iris2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/2_clusters_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/3_clusteriing_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/UFC_svc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/UFC_svc_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/UFC_svc_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/housing1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/housing2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/mushroom.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/preprocessed_data - 복사본.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/preprocessed_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/states2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/white_winequality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality_machine_learning_LinearRegrssion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/wine_quality_machine_learning_SVC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/Housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/Housing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/Housing_LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/Housing_SVC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/white_winequality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/wine_quality_machine_learning_CSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/wine_quality_machine_learning_LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test_print.py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_print.py.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Application/bluetoothClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Application/bluetoothClient.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../rpg_test/rpg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,117 +191,38 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>대구</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number_python.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/02_reg.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/02_regident_registration_number_python_re.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/03_293.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/294_1.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/05_294_2.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/06_294_3.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/07_294_4.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/04_294_1.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/08_295.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/09_296.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/11_297.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/12_299_1.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/13_299_2.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/14_300_2.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/15_300_3.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/16_302.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/17_302_DOTALL.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/19_305_MULTILINE.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/20_307_back_slash.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/21_307_back_slash.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/22_309.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/01_A_Z.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/03_313.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/04_313.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver3.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver4.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/09_318.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/10_319.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q17.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q18.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q19.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q20.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/py-Q2.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/01_Beautiful_Soup.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/1.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/naver_movie_rank.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/naver_movie_rank2.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/jgs.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/pythonNET/server.py" />
-        <option value="$PROJECT_DIR$/3_Bigdata/pythonNET/client.py" />
-        <option value="$PROJECT_DIR$/04_Application/01_Simulator/my_sim.py" />
-        <option value="$PROJECT_DIR$/04_Application/bluetoothClient.py" />
-        <option value="$PROJECT_DIR$/client1.py" />
-        <option value="$PROJECT_DIR$/04_Application/QQQQ.py" />
-        <option value="$USER_HOME$/Desktop/bluetoothclient.py" />
-        <option value="$USER_HOME$/Desktop/bluetoothClient.py" />
-        <option value="$PROJECT_DIR$/1.py" />
-        <option value="$PROJECT_DIR$/../rpg_test/rpg.py" />
-      </list>
-    </option>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/3_Bigdata/04_AI/03.Linear_Regression_Analysis/Housing.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/199_cross-iris.py" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="640" />
-    <option name="height" value="994" />
-  </component>
+  <component name="ProjectId" id="1R5AhbbdJkuCoIvV6Ct0ogqqbXq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test_print.py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Workspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\3_Bigdata\03_web_crawling\01_Beautiful_Soup" />
-      <recent name="C:\Python_Workspace\3_Bigdata\03_web_crawling\02_Regular_Expression\02_example\liscens" />
-      <recent name="C:\Python_Workspace\3_Bigdata\03_web_crawling\02_Regular_Expression\02_intermidiate" />
-      <recent name="C:\Python_Workspace\3_Bigdata\03_web_crawling\02_Regular_Expression\01_Basic" />
-      <recent name="C:\Python_Workspace\04_Application\01_Simulator" />
+      <recent name="C:\Python_Workspace\04_Application\03_Visualization\1_basic" />
+      <recent name="C:\Python_Workspace\3_Bigdata\04_AI\01.Machine_Learning\01_Supervised" />
+      <recent name="C:\Python_Workspace\3_Bigdata\04_AI\01.Machine_Learning" />
+      <recent name="C:\Python_Workspace\3_Bigdata\03_Statistics_basic" />
+      <recent name="C:\Python_Workspace\3_Bigdata\03_Statistics_basic\1.Linear_Regression_Analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Python_Workspace\3_Bigdata\03_web_crawling\01_Beautiful_Soup" />
-      <recent name="C:\Python_Workspace\3_Bigdata\2_OpenAPI\student" />
-      <recent name="C:\Python_Workspace\3_Bigdata\2_OpenAPI\weather" />
-      <recent name="C:\Python_Workspace\3_Bigdata\2_OpenAPI\naver" />
-      <recent name="C:\Python_Workspace\3_Bigdata\2_OpenAPI\travel" />
+      <recent name="C:\Python_Workspace\04_Application\03_Visualization\3_vocalization" />
+      <recent name="C:\Python_Workspace\04_Application\04_Integration" />
+      <recent name="C:\Python_Workspace\02_Raspberry_Pi" />
+      <recent name="C:\Python_Workspace\04_Application\03_Visualization\1_basic" />
+      <recent name="C:\Python_Workspace\3_Bigdata\04_AI\02.Text_Mining" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,8 +237,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rpg">
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1_REST_Server">
+    <configuration name="1_REST_Server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_Bigdata/pythonNET" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/04_Integration" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Bigdata/pythonNET/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/04_Integration/1_REST_Server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +259,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="client1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="295_seaborn_plots_step4_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step4_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="295_seaborn_plots_step4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_print.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/295_seaborn_plots_step4_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Socket_Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,7 +313,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Socket_Client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gisang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tourist_statistics_service_128" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_print.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,53 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/gisang.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_sim" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_print.py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Application/01_Simulator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/01_Simulator/my_sim.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rpg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_print.py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../rpg_test" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../rpg_test/rpg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Application/03_Visualization/1_basic/tourist_statistics_service_128.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,19 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.client1" />
-      <item itemvalue="Python.client" />
-      <item itemvalue="Python.gisang" />
-      <item itemvalue="Python.my_sim" />
-      <item itemvalue="Python.rpg" />
+      <item itemvalue="Python.295_seaborn_plots_step4_3" />
+      <item itemvalue="Python.295_seaborn_plots_step4_4" />
+      <item itemvalue="Python.tourist_statistics_service_128" />
+      <item itemvalue="Python.Socket_Client" />
+      <item itemvalue="Python.1_REST_Server" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rpg" />
-        <item itemvalue="Python.client1" />
-        <item itemvalue="Python.my_sim" />
-        <item itemvalue="Python.gisang" />
-        <item itemvalue="Python.client" />
+        <item itemvalue="Python.1_REST_Server" />
+        <item itemvalue="Python.Socket_Client" />
+        <item itemvalue="Python.tourist_statistics_service_128" />
+        <item itemvalue="Python.295_seaborn_plots_step4_4" />
+        <item itemvalue="Python.295_seaborn_plots_step4_3" />
       </list>
     </recent_temporary>
   </component>
@@ -415,49 +411,8 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19745223" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.327252" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52009183" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5200458" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295325" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32839224" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295325" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295325" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Google Cloud Storage" order="3" show_stripe_button="false" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18196721" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.327252" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48711658" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5200458" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295325" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32839224" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295325" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295325" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Google Cloud Storage" order="3" show_stripe_button="false" />
-    </layout-to-restore>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -465,20 +420,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -534,19 +476,9 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3_Bigdata/2_OpenAPI/weather/dong.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/3_Bigdata/2_OpenAPI/1/01_blog_search.py</url>
           <line>19</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3_Bigdata/2_OpenAPI/travel/travel_enterance.py</url>
-          <line>80</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/04_Application/01_Simulator/1.py</url>
@@ -568,6 +500,26 @@
           <line>97</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/8_db_mysql_new_load_from_csv.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3_Bigdata/02_Standardization_Analysis/3.DB/8_db_mysql_new_load_from_csv.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3_Bigdata/03_Statistics_basic/wine_quality.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3_Bigdata/04_AI/01.Machine_Learning/01_Supervised/UFC_svc_v2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -579,390 +531,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="tag1[0].find('a').text" language="Python" />
-        <watch expression="item" />
-        <watch expression="tag1" />
+        <watch expression="csv.columns.str" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>tag1[0].find('a').text</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tag1[0].find('a')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tag1.find('a')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>datetime.datetime.now()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>url</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>jsonData</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>parameters</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data['response']['body']['items']['item'][0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data['response']['body']['items']['item']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>g_json_big_data['response']['body']['items']['item']['0']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/11_297.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/12_299_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/13_299_2.py" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/14_300_1.py" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/14_300_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/15_300_3.py" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/16_302.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/17_302_DOTALL.py" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/20_307_back_slash.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/22_309.py" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/21_307_back_slash.py" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/py-Q1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/03_313.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/04_313.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/10_319.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="56" lean-forward="true" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/09_318.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_intermidiate/08_315_Negative_ver2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/03_293.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/01_regident_registration_number_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/02_regident_registration_number_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/01_Basic/19_305_MULTILINE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/liscens/Q20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/02_Regular_Expression/02_example/py-Q2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/complesim.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="146" column="12" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/naver_movie_rank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="1577" selection-start-line="1577" selection-end-line="1577" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/Naver_Ranking_ver2" />
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/Naver_Ranking_ver2.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/pythonNET/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/second_sim.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-676">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/01_Beautiful_Soup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/pythonNET/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/gisang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/my_sim.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1690">
-          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/01_Simulator/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="25" column="29" selection-start-line="23" selection-start-column="41" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/naver_movie_rank2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_Bigdata/03_web_crawling/01_Beautiful_Soup/jgs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/bluetoothClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/bluetoothClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding>
-            <element signature="e#23#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_Application/QQQQ.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#24#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Socket_Client.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../rpg_test/rpg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
